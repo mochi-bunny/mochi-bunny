@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mochi-bunny
-- 👀 I’m interested in music, coding, ai,  photography
+- 👀 I’m interested in music, art, coding, photography and AI.
 - 🌱 I’m currently enrolled in the 2024 batch of B.E computer science at BPDC.
 - 📫 You can reach me at my LinkedIn: https://www.linkedin.com/in/megha-manoj-5b4932232/
 
