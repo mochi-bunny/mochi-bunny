@@ -1,5 +1,6 @@
-
+<div align="center">
 <img src= "https://i.pinimg.com/originals/44/94/40/4494406b0e685995eaeb744e1ff0919c.gif"   height= 350 align= "center" />
+</div>
 
 # 💫 About Me:
 🔭 I’m currently working on Next.js projects for landing pages.<br>👯 I’m looking to collaborate on A.I/ML based research and projects. <br>🌱 I’m currently learning JavaScript, DevOps, Data science<br>💬 Ask me about AI, Python, MySQL<br>⚡ Fun fact: You can write easily in with your non-dominant hand in mirrored format
