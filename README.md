@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently working on Next.js projects for landing pages.<br>👯 I’m looking to collaborate on A.I/ML based research and projects. <br>🌱 I’m currently learning JavaScript, DevOps, Data science<br>💬 Ask me about AI, Python, MySQL<br>⚡ Fun fact: You can write easily in with your non-dominant hand in mirrored format
+🔭 I’m currently refining Optitunity and adding additional features.<br>👯 I’m looking to collaborate on A.I/ML based research and projects. <br>🌱 I’m currently learning JavaScript, DevOps, Data science<br>💬 Ask me about AI, Python, MySQL, NoSQL<br>⚡ Fun fact: You can write easily in with your non-dominant hand in mirrored format.
 
 
 ## 🌐 Socials:
