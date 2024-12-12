@@ -3,8 +3,7 @@
 </div>
 
 # 💫 About Me:
-🔭 I’m currently refining Optitunity and adding additional features.<br>👯 I’m looking to collaborate on A.I/ML based research and projects. <br>🌱 I’m currently learning JavaScript, DevOps, Data science<br>💬 Ask me about AI, Python, MySQL, NoSQL<br>⚡ Fun fact: You can write easily in with your non-dominant hand in mirrored format.
-
+A Data scientist aspirant focused on learning and implementing applications in AI, data science and software development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ihcahgem) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/megha-manoj-5b4932232/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/2aoMix6KP) 
