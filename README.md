@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-A Data scientist aspirant focused on learning and implementing applications in AI, data science and software development
+A Data scientist / MLE aspirant focused on learning and implementing applications in AI, data science and software development
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/megha-manoj-5b4932232/)  
